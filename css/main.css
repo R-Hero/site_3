@@ -722,7 +722,7 @@ section {
   border-radius: 40px;
   width: -webkit-max-content;
   width: -moz-max-content;
-  width: max-content;
+  width: fit-content;
 }
 @media (max-width: 767.98px) {
   .tab {
